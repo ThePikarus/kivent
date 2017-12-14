@@ -38,7 +38,10 @@ Other modules may have other dependecies, listed here:
 ### kivent_maps
 * [kivy](https://github.com/kivy/kivy)
 * [kivent_core](https://github.com/kivy/KivEnt/tree/master/modules/core)
-* also Tiled based deps, udiboy1209 we need to add the deps here
+also Tiled based dependencies.  See this site http://udiboy1209.github.io/2016-08-19-how-to-use-tiled-maps-in-kivent/ or install the three modules below
+   * [six](https://github.com/benjaminp/six)
+   * [pathlib] can be installed with pip install pathlib
+   * [tmx] can be installed with pip install tmx
 
 ### kivent_projectiles
 * [kivy](https://github.com/kivy/kivy)
